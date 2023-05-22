@@ -9,6 +9,7 @@ This repository contains the code for the third assignment of the course CS6910 
 `CS6910 - Assignment3` folder contains the following files:
 - `Assignment_3.ipynb` : This file contains the seq2seq model with attention.
 - `fdl-a3.ipynb` : This file contains the seq2seq model without attention.
+- `predictions_vanilla.txt` : This file contains the predictions on test set from the vanilla seq2seq model 
 
 ## Running the model
 You can run the model with few commands as given below
